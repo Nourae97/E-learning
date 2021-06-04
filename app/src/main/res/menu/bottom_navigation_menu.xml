@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/scheduleFragmentItem"
+        android:enabled="true"
+        android:icon="@drawable/ic_schedule"
+        android:title="Schedule" />
+
+    <item
+        android:id="@+id/attendanceFragmentItem"
+        android:enabled="true"
+        android:icon="@drawable/ic_attendance"
+        android:title="Attendance" />
+
+    <item
+        android:id="@+id/gradesFragmentItem"
+        android:enabled="true"
+        android:icon="@drawable/ic_grades"
+        android:title="Grades" />
+
+    <item
+        android:id="@+id/notesFragmentItem"
+        android:enabled="true"
+        android:icon="@drawable/ic_notes"
+        android:title="Notes" />
+
+</menu>
